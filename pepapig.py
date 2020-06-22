@@ -18,7 +18,7 @@ t.penup()
 t.goto(-215,70)
 #设置写字内容和字体、字号
 t.write("Taiyu&Timmy", move=False, align='center', font=("微软雅黑", 25, 'normal'))
-# 鼻子
+# 鼻子鼻子
 t.pu()
 t.goto(-100, 100)
 t.pd()
